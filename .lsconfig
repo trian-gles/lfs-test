@@ -1,0 +1,6 @@
+[lfs]
+url = "https://kieranmcauliffe@h-213.61.58.35.host.de.colt.net:9000"
+
+[http]
+sslverify = false
+
